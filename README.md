@@ -1,5 +1,8 @@
 # Olá, eu sou a Gabriely! 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriely-vicente-7b6931272)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabient.ut@gmail.com)
+
 ### 🎓 Engenheira de Computação em formação
 Sou uma entusiasta de tecnologia nos meus vinte e poucos anos, atualmente finalizando o curso de Engenharia de Computação. Meu foco é transformar dados em soluções inteligentes, aprender e evoluir na minha carreira profissional.
 
