@@ -8,13 +8,13 @@ Atuo na criação de soluções tecnológicas fim a fim, combinando desenvolvime
 
 ---
 
-### 🚀 Áreas de Atuação e Projetos Recentes:
+### Áreas de Atuação e Projetos Recentes:
 - **Inteligência Artificial & Visão Computacional:** Desenvolvimento de um sistema inteligente para tradução automática de LIBRAS para o Português, focado em impacto social.
 - **Data Engineering & Machine Learning:** Criação e treinamento de redes neurais e modelos de aprendizado supervisionado para predição e otimização de processos industriais (Estágio AlQualis).
 - **Desenvolvimento Full Stack:** Construção de aplicações robustas e prototipagem rápida utilizando frameworks web modernos, suportadas por metodologias ágeis (Scrum e Kanban).
 - **Infraestrutura & Sistemas:** Ampla vivência prática com ambientes Linux (Shell Scripting, administração de SO), banco de dados relacionais e conteinerização.
 
-### 🛠️ Tecnologias e Ferramentas:
+### Tecnologias e Ferramentas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +27,7 @@ Atuo na criação de soluções tecnológicas fim a fim, combinando desenvolvime
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📚 Certificações e Formação Contínua:
+### Certificações e Formação Contínua:
 - **Introdução a Ciência de Dados** - Cisco Networking Academy (Em andamento)
 - **Lei Geral de Proteção de Dados (LGPD) & Ética na Era da IA** - Fundação Bradesco
 - **Cybersecurity Essentials & Introduction to IoT** - Cisco Networking Academy
