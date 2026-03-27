@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabient.ut@gmail.com)
 
 ### Engenheira de Computação & Desenvolvedora Full Stack
-Atuo na criação de soluções tecnológicas fim a fim, combinando desenvolvimento de software, inteligência artificial e visão computacional. Minha trajetória me proporcionou sólida experiência em arquitetura de computadores, sistemas operacionais, sistemas embarcados e distribuídos, permitindo-me desenvolver aplicações otimizadas, seguras e escaláveis.
+Atuo na construção de sistemas de alto desempenho, combinando desenvolvimento de software, inteligência artificial e visão computacional. Minha trajetória me proporcionou sólida experiência em arquitetura de computadores, sistemas operacionais, sistemas embarcados e distribuídos, permitindo-me desenvolver aplicações otimizadas, seguras e escaláveis.
 
 ---
 
