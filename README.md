@@ -28,9 +28,8 @@ Atuo na construção de sistemas de alto desempenho, combinando desenvolvimento 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Certificações e Formação Contínua:
-- **Introdução a Ciência de Dados** - Cisco Networking Academy (Em andamento)
 - **Lei Geral de Proteção de Dados (LGPD) & Ética na Era da IA** - Fundação Bradesco
-- **Cybersecurity Essentials & Introduction to IoT** - Cisco Networking Academy
+- **Cybersecurity Essentials,Introdução a Ciência de Dados & Introduction to IoT** - Cisco Networking Academy
 
 ---
 
